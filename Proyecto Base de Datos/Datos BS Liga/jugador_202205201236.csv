@@ -1,0 +1,185 @@
+"Cod_Jugador","DNI","Nombre","Apellido1","Apellido2","Fecha_de_nacimiento","Posición","Nacionalidad","EQUIPO_Nombre_Equipo"
+0,"158023",L. Messi,cuerpos,Mochar,"2004-07-01",RF,Argentina,FC Barcelona
+1,"20801",Cristiano Ronaldo,Jedrachowicz,Cocinaham,"2018-07-10",ST,Portugal,Juventus
+2,"190871",Neymar Jr,Aish,Soñador,"2017-08-03",LW,Brazil,Paris Saint-Germain
+3,"193080",De Gea,melliard,Urien,"2011-07-01",GK,Spain,Manchester United
+4,"192985",K. De Bruyne,Ajsik,Wiley,"2015-08-30",RCM,Belgium,Manchester City
+5,"183277",E. Hazard,Tillerton,Gastické,"2012-07-01",LF,Belgium,Chelsea
+6,"177003",L. Modri?,Siggins,Treharne,"2012-08-01",RCM,Croatia,Real Madrid
+7,"176580",L. Suárez,Filkov,Tebaldo,"2014-07-11",RS,Uruguay,FC Barcelona
+8,"155862",Sergio Ramos,gran lote,Tointón,"2005-08-01",RCB,Spain,Real Madrid
+9,"200389",J. Oblak,teresa,hiscoca,"2014-07-16",GK,Slovenia,Atlético Madrid
+10,"188545",R. Lewandowski,Burren,gregori,"2014-07-01",ST,Poland,FC Bayern München
+11,"182521",T. Kroos,Erey,Stapleford,"2014-07-17",LCM,Germany,Real Madrid
+12,"182493",D. Godín,Praundlin,Izod,"2010-08-04",CB,Uruguay,Atlético Madrid
+13,"168542",David Silva,mucho,wight,"2010-07-14",LCM,Spain,Manchester City
+14,"215914",N. Kanté,Scipsey,rafón,"2016-07-16",LDM,France,Chelsea
+15,"211110",P. Dybala,Hungerford,marchitarse,"2015-07-01",LF,Argentina,Juventus
+16,"202126",H. Kane,Bartoszinski,trucha,"2010-07-01",ST,England,Tottenham Hotspur
+17,"194765",A. Griezmann,ranklin,Oakland,"2014-07-28",CAM,France,Atlético Madrid
+18,"192448",M. ter Stegen,Puñal,Wimpeney,"2014-07-01",GK,Germany,FC Barcelona
+19,"192119",T. Courtois,Derrington,aleta,"2018-08-09",GK,Belgium,Real Madrid
+20,"189511",Sergio Busquets,coda,Tívolier,"2008-09-01",CDM,Spain,FC Barcelona
+21,"179813",E. Cavani,O'Bradden,Muerte,"2013-07-16",LS,Uruguay,Paris Saint-Germain
+22,"167495",M. Neuer,Chorlito,Andrássy,"2011-07-01",GK,Germany,FC Bayern München
+23,"153079",S. Agüero,Jelkes,Orbina,"2011-07-28",ST,Argentina,Manchester City
+24,"138956",G. Chiellini,Quillinane,Turpín,"2005-07-01",LCB,Italy,Juventus
+25,"231747",K. Mbappé,Meineck,cranage,"2018-07-01",RM,France,Paris Saint-Germain
+26,"209331",M. Salah,pelerín,Jenking,"2017-07-01",RM,Egypt,Liverpool
+27,"200145",Casemiro,verón,tupido,"2013-07-11",CDM,Brazil,Real Madrid
+28,"198710",J. Rodríguez,Muscott,Tolcher,"2011-07-28",LAM,Colombia,FC Bayern München
+29,"198219",L. Insigne,Hallsworth,Leisk,"2010-07-01",LW,Italy,Napoli
+30,"197781",Isco,boyes,Rotherham,"2013-07-03",LW,Spain,Real Madrid
+31,"190460",C. Eriksen,salvaje,florblanca,"2013-08-30",CAM,Denmark,Tottenham Hotspur
+32,"189242",Coutinho,Boyero,Zagal,"2018-01-06",LW,Brazil,FC Barcelona
+33,"188567",P. Aubameyang,gallihawk,Andreolli,"2018-01-31",LM,Gabon,Arsenal
+34,"178603",M. Hummels,Kelsell,mayor,"2016-07-01",LCB,Germany,FC Bayern München
+35,"176676",Marcelo,armfirld,Willcox,"2007-01-01",LB,Brazil,Real Madrid
+36,"173731",G. Bale,Jahndel,Minihan,"2013-09-02",ST,Wales,Real Madrid
+37,"167948",H. Lloris,Hija,Pauletto,"2012-08-01",GK,France,Tottenham Hotspur
+38,"167664",G. Higuaín,Clayton,Dülen,"2011-07-28",LS,Argentina,Milan
+39,"164240",Thiago Silva,Cappineer,Ruane,"2012-07-01",RCB,Brazil,Paris Saint-Germain
+40,"162835",S. Handanovi?,Beeck,bolletti,"2012-07-01",GK,Slovenia,Inter
+41,"1179",G. Buffon,Pieracci,Demanche,"2018-07-06",GK,Italy,Paris Saint-Germain
+42,"205600",S. Umtiti,Lamshead,huygens,"2016-07-12",CB,France,FC Barcelona
+43,"201399",M. Icardi,Guillet,Fidelidad,"2013-07-09",ST,Argentina,Inter
+44,"201024",K. Koulibaly,Rudsdale,Kolis,"2014-07-01",LCB,Senegal,Napoli
+45,"195864",P. Pogba,autobús,Pobjay,"2016-08-09",RDM,France,Manchester United
+46,"193041",K. Navas,Falcas,Rigardeau,"2014-08-03",GK,Costa Rica,Real Madrid
+47,"192505",R. Lukaku,Pescador,Bygrave,"2017-07-10",ST,Belgium,Manchester United
+48,"192387",C. Immobile,coche,Seid,"2016-07-27",ST,Italy,Lazio
+49,"189332",Jordi Alba,Parmán,Harpin,"2012-07-01",LB,Spain,FC Barcelona
+50,"175943",D. Mertens,Sikorski,Bartosiak,"2013-07-01",RF,Belgium,Napoli
+51,"172871",J. Vertonghen,Lohden,Nowell,"2012-07-01",LCB,Belgium,Tottenham Hotspur
+52,"171877",M. Hamšík,Baty,alden,"2007-07-01",LCM,Slovakia,Napoli
+53,"168651",I. Rakiti?,Krzyzowski,Eseler,"2014-07-01",RCM,Croatia,FC Barcelona
+54,"152729",Piqué,Wyvill,Desecho,"2008-07-01",RCB,Spain,FC Barcelona
+55,"222492",L. Sané,Gritar,Motherwell,"2016-08-02",LW,Germany,Manchester City
+56,"218667",Bernardo Silva,lia,Ellicock,"2017-07-01",RW,Portugal,Manchester City
+57,"210257",Ederson,rodgers,matemáticas,"2017-07-01",GK,Brazil,Manchester City
+58,"208722",S. Mané,Dowsey,Firmar,"2016-07-01",LM,Senegal,Liverpool
+59,"203376",V. van Dijk,brasero,Ivanets,"2018-01-01",LCB,Netherlands,Liverpool
+60,"202652",R. Sterling,mamá,Pentycross,"2015-07-14",RW,England,Manchester City
+61,"201942",Roberto Firmino,Fermer,Haché,"2015-07-06",CAM,Brazil,Liverpool
+62,"201535",R. Varane,Sterman,Vreiberg,"2011-07-01",RCB,France,Real Madrid
+63,"199556",M. Verratti,barwis,Boothebie,"2012-07-18",LCM,Italy,Paris Saint-Germain
+64,"191043",Alex Sandro,noviopuente,Espinay,"2015-08-21",LB,Brazil,Juventus
+65,"190483",Douglas Costa,Duffrie,Heaviside,"2018-07-01",LM,Brazil,Juventus
+66,"189596",T. Müller,Mardle,Zappel,"2008-08-10",CAM,Germany,FC Bayern München
+67,"189509",Thiago,explicar,Farnsworth,"2013-07-14",CM,Spain,FC Bayern München
+68,"188350",M. Reus,labro,Skala,"2012-07-01",LM,Germany,Borussia Dortmund
+69,"184432",Azpilicueta,aldines,McMeeking,"2012-08-24",RB,Spain,Chelsea
+70,"184344",L. Bonucci,Palleske,más cerrado,"2018-08-02",RCB,Italy,Juventus
+71,"184087",T. Alderweireld,Pliegue,Shattock,"2015-07-08",RCB,Belgium,Tottenham Hotspur
+72,"180206",M. Pjani?,Spiteri,Jaze,"2016-07-01",CDM,Bosnia Herzegovina,Juventus
+73,"177509",M. Benatia,cubos,Kirsop,"2014-08-26",CB,Morocco,Juventus
+74,"176635",M. Özil,buenoble,o'shirine,"2013-09-02",CAM,Germany,Arsenal
+75,"135507",Fernandinho,Bonnyson,Jannex,"2013-07-01",CDM,Brazil,Manchester City
+76,"41",Iniesta,apuntador,Cansdall,"2018-07-16",LF,Spain,Vissel Kobe
+77,"232363",M. Škriniar,Simanek,Kleinmann,"2017-07-07",LCB,Slovakia,Inter
+78,"223848",S. Milinkovi?-Savi?,Stother,Langstone,"2015-08-06",CM,Serbia,Lazio
+79,"220834",Marco Asensio,Pasterfield,Sempre,"2015-07-01",RW,Spain,Real Madrid
+80,"216594",N. Fekir,Bustón,Torrisi,"2013-07-01",CAM,France,Olympique Lyonnais
+81,"212831",Alisson,Puve,macsorley,"2018-07-19",GK,Brazil,Liverpool
+82,"212622",J. Kimmich,giocomuzzo,Roma,"2015-07-01",RCM,Germany,FC Bayern München
+83,"208421",Saúl,Chieco,Franciskiewicz,"2013-07-01",RCM,Spain,Atlético Madrid
+84,"204485",R. Mahrez,Follos,collado,"2018-07-10",RW,Algeria,Manchester City
+85,"197445",D. Alaba,connors,Coddington,"2010-02-10",LB,Austria,FC Bayern München
+86,"193747",Koke,Murison,aprendermont,"2011-01-01",LM,Spain,Atlético Madrid
+87,"193301",A. Lacazette,Caminante,Corday,"2017-07-05",ST,France,Arsenal
+88,"192774",K. Manolas,Baldocci,guidera,"2014-08-26",LCB,Greece,Roma
+89,"192366",N. Otamendi,samwyse,peskett,"2015-08-20",CB,Argentina,Manchester City
+90,"189513",Parejo,guillermo,Cuajar,"2011-07-01",RCM,Spain,Valencia CF
+91,"187961",Paulinho,McElroy,Hartropp,"2011-07-28",LDM,Brazil,Guangzhou Evergrande Taobao FC
+92,"186153",W. Szcz?sny,Jenicke,Wallentin,"2017-07-19",GK,Poland,Juventus
+93,"184941",A. Sánchez,rosal,halcones,"2018-01-22",RW,Chile,Manchester United
+94,"184267",Y. Brahimi,Rampton,Marcombe,"2014-07-22",LM,Algeria,FC Porto
+95,"183907",J. Boateng,Hanshawe,betel,"2011-07-14",RCB,Germany,FC Bayern München
+96,"181872",A. Vidal,Kiddell,Pueblos,"2018-08-06",CAM,Chile,FC Barcelona
+97,"181458",I. Periši?,Engranaje,Ladloe,"2015-09-01",LM,Croatia,Inter
+98,"180930",E. Džeko,Jorck,bernaldo,"2015-07-01",ST,Bosnia Herzegovina,Roma
+99,"179846",S. Khedira,Iacovucci,beverstock,"2015-07-01",RCM,Germany,Juventus
+100,"179844",Diego Costa,whitloe,Adamovicz,"2018-01-01",LS,Spain,Atlético Madrid
+101,"178518",R. Nainggolan,Salida,Ixor,"2018-07-01",CAM,Belgium,Inter
+102,"171919",Naldo,Whittet,petirrojo,"2016-07-01",CB,Brazil,FC Schalke 04
+103,"170890",B. Matuidi,Lowten,joannidi,"2017-08-18",LM,France,Juventus
+104,"168609",Miranda,Hirche,Kennan,"2017-07-01",CB,Brazil,Inter
+105,"165153",K. Benzema,Mougenel,Haine,"2009-07-09",ST,France,Real Madrid
+106,"164169",Filipe Luís,Felipe,Sin miedo,"2015-07-28",LB,Brazil,Atlético Madrid
+107,"139720",V. Kompany,Zahor,Fattori,"2008-08-22",CB,Belgium,Manchester City
+108,"120533",Pepe,Callaway,Dahl,"2017-07-04",RCB,Portugal,Be?ikta? JK
+109,"41236",Z. Ibrahimovi?,Smuth,caplán,"2018-03-23",RS,Sweden,LA Galaxy
+110,"220793",D. Sánchez,MacCague,Franklen,"2017-08-26",RCB,Colombia,Tottenham Hotspur
+111,"216460",J. Giménez,oeste,Kilgannon,"2013-07-01",RCB,Uruguay,Atlético Madrid
+112,"212462",Alex Telles,braywood,bawme,"2016-07-13",LB,Brazil,FC Porto
+113,"212218",A. Laporte,Montel,Cannell,"2018-01-30",LCB,France,Manchester City
+114,"212198",Bruno Fernandes,frita,Sparkwell,"2017-07-01",LCM,Portugal,Sporting CP
+115,"212190",N. Süle,Weymont,Rentar,"2017-07-01",CB,Germany,FC Bayern München
+116,"211300",A. Martial,Kemmons,Grangier,"2015-09-01",LW,France,Manchester United
+117,"211117",D. Alli,Matchett,mcgennis,"2015-02-02",LCM,England,Tottenham Hotspur
+118,"209499",Fabinho,Cromley,Yesinín,"2018-07-01",CDM,Brazil,Liverpool
+119,"207865",Marquinhos,escofina,lanzas,"2013-07-19",LDM,Brazil,Paris Saint-Germain
+120,"207566",William Carvalho,McKoy,abundante,"2018-07-13",CDM,Portugal,Real Betis
+121,"205498",Jorginho,Tissell,Cáthrae,"2018-07-16",CM,Italy,Chelsea
+122,"204970",F. Thauvin,Sucre,Ilyinykh,"2017-07-01",RM,France,Olympique de Marseille
+123,"204963",Carvajal,Atenúa,macgragh,"2013-07-05",RB,Spain,Real Madrid
+124,"202556",M. Depay,Racimo,McKew,"2017-01-20",ST,Netherlands,Olympique Lyonnais
+125,"200104",H. Son,Wenman,salnnow,"2015-08-28",LM,Korea Republic,Tottenham Hotspur
+126,"199482",A. Lopes,West-Frimley,caminante,"2011-07-01",GK,Portugal,Olympique Lyonnais
+127,"198176",S. de Vrij,Klimke,Quilligan,"2018-07-01",CB,Netherlands,Inter
+128,"198009",M. Perin,Siberry,cíclicos,"2018-07-01",GK,Italy,Juventus
+129,"193082",J. Cuadrado,tumasiano,Infierno,"2015-02-02",RAM,Colombia,Juventus
+130,"192629",Iago Aspas,Clynter,fusedale,"2015-07-01",ST,Spain,RC Celta
+131,"192563",B. Leno,haseldina,Dundin,"2018-07-01",GK,Germany,Arsenal
+132,"191202",N. Mati?,Kornes,Chiles,"2017-07-31",CDM,Serbia,Manchester United
+133,"190941",L. Hrádecký,Ely,estennine,"2018-07-01",GK,Finland,Bayer 04 Leverkusen
+134,"190584",Illarramendi,Wagstaff,Leche,"2015-08-26",RDM,Spain,Real Sociedad
+135,"188377",K. Walker,cossey,tejones,"2017-07-14",RB,England,Manchester City
+136,"186942",I. Gündo?an,campo,cerdo,"2016-07-01",CM,Germany,Manchester City
+137,"185020",José Callejón,puntuable,gillilandia,"2013-07-11",RM,Spain,Napoli
+138,"183898",A. Di María,Rowbrey,Dunkley,"2015-08-06",RM,Argentina,Paris Saint-Germain
+139,"181783",M. Mandžuki?,Borrés,kobu,"2015-07-01",ST,Croatia,Juventus
+140,"180403",Willian,Winwood,Thirlwall,"2013-08-28",RW,Brazil,Chelsea
+141,"178750",Sergio Asenjo,Hugo,Paraguas,"2014-06-30",GK,Spain,Villarreal CF
+142,"178562",E. Banega,Pellissier,Newvell,"2017-07-03",CDM,Argentina,Sevilla FC
+143,"177413",A. Witsel,kibbey,niveles,"2018-08-17",LCM,Belgium,Borussia Dortmund
+144,"177388",D. Payet,O'Donegan,crombo,"2017-01-30",CAM,France,Olympique de Marseille
+145,"176769",Jonas,Bodle,Klemt,"2014-09-12",ST,Brazil,SL Benfica
+146,"172879",Sokratis,Galia,Valentino,"2018-07-02",RCB,Greece,Arsenal
+147,"167628",S. Ruffier,Pepineaux,Scocroft,"2011-07-11",GK,France,AS Saint-Étienne
+148,"167397",Falcao,Seméchik,Frio,"2013-07-01",RS,Colombia,AS Monaco
+149,"163587",K. Schmeichel,lindup,Danzig,"2011-06-01",GK,Denmark,Leicester City
+150,"157481",Raúl Albiol,Cayó sobre,chappelow,"2013-07-21",RCB,Spain,Napoli
+151,"143076",A. Gómez,Reihm,Soloway,"2014-09-02",LS,Argentina,Atalanta
+152,"137186",A. Barzagli,Naptón,McCarly,"2011-01-01",CB,Italy,Juventus
+153,"20775",Quaresma,Bruckental,Mitchley,"2015-07-22",RM,Portugal,Be?ikta? JK
+154,"9014",A. Robben,Hectáreas,Niesegen,"2009-08-28",RM,Netherlands,FC Bayern München
+155,"231443",O. Dembélé,Merricks,Kellett,"2017-08-28",RW,France,FC Barcelona
+156,"230666",Gabriel Jesus,Ellerbeck,Deshon,"2016-08-03",ST,Brazil,Manchester City
+157,"230481",Ronaldo Cabrais,Fuimos,menitorp,"2018-01-01",RW,Brazil,Grêmio
+158,"230375",Josué Chiamulera,Sedgefield,Cañedo,"2018-01-01",LCB,Brazil,Grêmio
+159,"230294",Louri Beretta,Página,Olliff,"2018-01-01",ST,Brazil,Atlético Mineiro
+160,"225850",P. Kimpembe,girodin,Sibthorp,"2015-07-01",LCB,France,Paris Saint-Germain
+161,"220971",N. Keïta,Mordaunt,haselgrove,"2018-07-01",CM,Guinea,Liverpool
+162,"219683",C. Tolisso,Gregoletti,Faraón,"2017-07-01",CM,France,FC Bayern München
+163,"213565",T. Lemar,MacFarlane,Hanington,"2018-07-01",LM,France,Atlético Madrid
+164,"213345",K. Coman,Toca en,Colclough,"2015-08-30",LM,France,FC Bayern München
+165,"213331",J. Tah,aston,maullido,"2015-07-16",CB,Germany,Bayer 04 Leverkusen
+166,"212523",Anderson Talisca,Goulbourn,Harkin,"2011-07-28",CAM,Brazil,Guangzhou Evergrande Taobao FC
+167,"212188",T. Werner,espinilla,Habbes,"2016-07-01",RW,Germany,RB Leipzig
+168,"210008",A. Rabiot,Crookes,Barbosa,"2012-07-01",CM,France,Paris Saint-Germain
+169,"209658",L. Goretzka,chino,Ferrarese,"2018-07-01",CM,Germany,FC Bayern München
+170,"208808",Q. Promes,Cranefield,cruceta,"2018-08-31",RM,Netherlands,Sevilla FC
+171,"208670",H. Ziyech,Wyndham,Yeldham,"2016-08-30",RAM,Morocco,Ajax
+172,"208618",Lucas Vázquez,Dulce,O'Doogan,"2015-07-02",RW,Spain,Real Madrid
+173,"208418",Y. Carrasco,Nortunen,Beefon,"2018-02-26",LM,Belgium,Dalian YiFang FC
+174,"208093",Gerard Moreno,Villa,Challiner,"2018-07-02",LS,Spain,Villarreal CF
+175,"207863",Felipe,lanzas,Goodrich,"2016-07-01",RCB,Brazil,FC Porto
+176,"207410",M. Kova?i?,Gitsham,Pigford,"2011-07-28",LCM,Croatia,Chelsea
+177,"206585",Kepa,hassell,Edmundo,"2018-08-08",GK,Spain,Chelsea
+178,"206545",Manu Trigueros,Chillido,Sigfrido,"2011-07-01",RCM,Spain,Villarreal CF
+179,"206113",S. Gnabry,Scollick,Rizzello,"2017-07-01",ST,Germany,FC Bayern München
+180,"204935",J. Pickford,Tacey,gusanos,"2017-06-15",GK,England,Everton
+181,"204639",S. Savi?,Furnell,Brimner,"2015-07-20",CB,Montenegro,Atlético Madrid
+182,"203574",J. Stones,Natón,simonita,"2016-08-09",RCB,England,Manchester City
+183,"202651",Suso,Scryne,sedcole,"2015-01-17",RW,Spain,Milan
